@@ -1,3 +1,4 @@
+
 # CODTECH-Task1
 Name:CHARANYA CHEJARLA
 Company:CODETECH IT SOLUTIONS
@@ -23,3 +24,4 @@ JavaScript: Adds interactivity, allowing users to add and remove tasks dynamical
 
 output:
 ![Screenshot 2024-08-07 194411](https://github.com/user-attachments/assets/73b944a2-2fa4-46f1-9e4c-bb59225ac6c1)
+![Screenshot 2024-08-14 105533](https://github.com/user-attachments/assets/e515b022-1474-49ac-a815-ffd667ccb9ef)
