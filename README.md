@@ -27,17 +27,25 @@ Creating an effective to-do list involves prioritizing tasks that align with you
 Key Activities
 
 -> Prioritize tasks that align with your goals.
+
 -> Break down larger tasks into smaller, manageable steps.
+
 -> Set realistic deadlines for each task.
+
 -> Allocate dedicated time blocks for focused work.
+
 -> Include routine activities to ensure consistency.
+
 -> Review progress daily and adjust the next day’s list.
+
 -> Track and mark completed tasks to visualize progress.
 
 Technologies used
 
 HTML: For structuring the webpage and defining the elements like input fields, buttons, and lists.
+
 CSS: For styling the webpage, including layout, colors, fonts, and responsiveness.
+
 JavaScript: For adding interactivity, such as handling user inputs, updating the to-do list dynamically, and storing tasks locally.
 
 
